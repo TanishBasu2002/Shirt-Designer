@@ -11,7 +11,7 @@ a popular utility-first CSS styling framework
 ### Framer Motion 
 the most popular library used to bring your React website to life with animations
 
-## To use it either <a href="https://www.w3schools.com">visit</a>
+## To use it either <a href="https://tshirt-designer-tanish.netlify.app/">visit</a>
 
 or 
 ### Git Clone it 
